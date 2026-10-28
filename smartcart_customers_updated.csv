@@ -1,0 +1,2 @@
+Year_Birth,Education,Marital_Status,Income,Kidhome,Teenhome,Dt_Customer,Recency,MntWines,MntFruits,MntMeatProducts,MntFishProducts,MntSweetProducts,MntGoldProds,NumDealsPurchases,NumWebPurchases,NumCatalogPurchases,NumStorePurchases,NumWebVisitsMonth,Complain,Response,ID,Cluster,Is_Registered
+1980,Graduation,Married,50000.0,0,0,01-01-2013,30,100,20,100,20,20,20,2,4,2,4,5,0,0,11192,0,True
